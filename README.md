@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-🔭 My work account: [https://github.com/zhongxuanwang-nv](https://github.com/zhongxuanwang-nv)
+## 🔭 My work account: [https://github.com/zhongxuanwang-nv](https://github.com/zhongxuanwang-nv)
 
 <!--
 **ZhongxuanWang/zhongxuanwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
